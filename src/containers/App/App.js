@@ -126,7 +126,9 @@ class App extends Component {
               <LinkContainer to="/about">
                 <NavItem>About Us</NavItem>
               </LinkContainer>
-
+              <LinkContainer to="/event-picker">
+                <NavItem>Events</NavItem>
+              </LinkContainer>
               {!user && (
                 <LinkContainer to="/login">
                   <NavItem>Login</NavItem>
