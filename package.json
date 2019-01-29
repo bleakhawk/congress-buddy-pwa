@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-universal-hot-example",
+  "name": "congressbuddy-pwa",
   "description": "Example of an isomorphic (universal) webapp using react redux and hot reloading",
   "author": "Kévin Berthommier <kevin.bertho@gmail.com> (http://github.com/bertho-zero)",
   "contributors": [
